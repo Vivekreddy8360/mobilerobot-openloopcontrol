@@ -9,7 +9,7 @@ To develop a python control code to move the mobilerobot along the predefined pa
 
 ## Procedure
 
-### Step1: Start
+Step1: Start
 
 
 Step2: From robomaster import robot
@@ -75,8 +75,10 @@ if _name_ == '_main_':
     ep_robot.close()
 ```
 
-## MobileRobot Movement Image:
-
+## Robo master
+![output](https://github.com/Vivekreddy8360/mobilerobot-openloopcontrol/blob/main/k1.png?raw=true)
+![output](https://github.com/Vivekreddy8360/mobilerobot-openloopcontrol/blob/main/k2.jfif?raw=true)
+![output](https://github.com/Vivekreddy8360/mobilerobot-openloopcontrol/blob/main/k3.jfif?raw=true)
 
 
 ## MobileRobot Movement Video:
